@@ -13,10 +13,7 @@ function App() {
     <Router>
     <div className='global-div'>
         <Routes>
-            <Route path="/" element={<Home/>}/>
-        </Routes>
-        <Routes>
-            <Route path="/Newmarket" element={<CareerFair/>}/>
+            <Route path="/" element={<CereerFair/>}/>
         </Routes>
     </div>
 </Router>
