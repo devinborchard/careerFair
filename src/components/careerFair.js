@@ -7,7 +7,7 @@ function CareerFair() {
         return (
             <tr>
             <td>
-            {comment}
+            <p style={{color: "white"}}>{comment}</p>
             </td>    
             </tr>
         )
