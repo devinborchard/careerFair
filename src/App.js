@@ -1,4 +1,3 @@
-import Home from './components/Home';
 import CareerFair from './components/careerFair';
 import './App.css';
 import {
@@ -13,7 +12,7 @@ function App() {
     <Router>
     <div className='global-div'>
         <Routes>
-            <Route path="/" element={<CereerFair/>}/>
+            <Route path="/" element={<CareerFair/>}/>
         </Routes>
     </div>
 </Router>
