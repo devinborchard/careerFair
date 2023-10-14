@@ -12,7 +12,7 @@ function Home() {
                     <h2 style={{color: "white"}}>Go here:</h2>
                 </td>
                 <td>
-                    <Link style={{color: "cyan"}} to="/newmarket" > <h2>Newmarket Career Fair  </h2></Link> 
+                    <a style={{color: "cyan"}} href="http://devinborchard.com/newmarket" > <h2>Newmarket Career Fair  </h2></a> 
                 </td>
             </tr>
          </table>
